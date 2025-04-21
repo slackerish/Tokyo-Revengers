@@ -3,7 +3,11 @@ body{
   color:white;
 }
 iframe{
-  width:100vw;
-  height:100vh;
-  position:fixed;
+  margin-left:50%;
+  width:60vw;
+  height:800px;
+  position:relative;
+}
+img{
+  width:40vw;
 }
