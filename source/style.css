@@ -16,7 +16,7 @@
   align-content: center;
   text-align: center;
   font-family: 'Prompt', sans-serif;
-  color: var(--textcolor);
+  color: white;
 }
 body {
   margin: 0;
@@ -43,10 +43,6 @@ header,
   border-radius: 0 0 20px 20px;
   position: fixed;
   /* box-shadow: 0 5px 10px var(--uibg); */
-}
-marquee{
-  border-radius: 0 0 20px 20px;
-  box-shadow: 0 5px 10px var(--uibg); 
 }
 footer.noscroll {
   position: fixed;
