@@ -8,5 +8,6 @@ iframe{
   height:800px;
 }
 img{
-  width:40vw;
+  width:400px;
+  border-radius:8px;
 }
